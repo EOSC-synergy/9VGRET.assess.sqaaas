@@ -1,0 +1,9 @@
+services:
+  qc.fair_shabby-chocolate-ocelot:
+    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
+    volumes:
+    - source: ./
+      target: /sqaaas-build
+      type: bind
+    working_dir: /sqaaas-build
+version: '3.7'

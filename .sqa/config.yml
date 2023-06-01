@@ -14,5 +14,5 @@ sqa_criteria:
         commands:
         - fair-eva.py -ID https://doi.org/10.11587/9VGRET -R oai-pmh -B https://data.aussda.at/oai
           --tool_endpoint http://localhost:9090/v1.0/rda/rda_all
-        container: qc.fair_shabby-chocolate-ocelot
+        container: qc.fair_craggy-rust-devil
 timeout: 5400

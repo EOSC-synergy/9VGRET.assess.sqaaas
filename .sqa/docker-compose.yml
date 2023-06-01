@@ -1,5 +1,5 @@
 services:
-  qc.fair_shabby-chocolate-ocelot:
+  qc.fair_craggy-rust-devil:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./

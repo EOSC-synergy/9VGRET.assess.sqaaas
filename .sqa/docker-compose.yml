@@ -1,5 +1,5 @@
 services:
-  qc.fair_craggy-rust-devil:
+  qc.fair_lumpy-asparagus-burmese:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
